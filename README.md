@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 I’m a software engineer attending UNC Chapel Hill with a passion for app development, problem-solving, team-building, and learning! 
 
 🔭 I’m currently working on integrating GPT4 with my personal project ideas!
+
 🌱 I’m currently learning C and Java
+
 📫 How to reach me: kpatel6@unc.edu
+
 ⚡ Fun fact: In my free time, I love playing tennis and mountain biking.
 
 <a href="https://www.linkedin.com/in/kishanpatel910/">
