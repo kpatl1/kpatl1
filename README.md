@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hi! I'm Kishan👨🏽‍💻
+
+I’m a software engineer attending UNC Chapel Hill with a passion for app development, problem-solving, team-building, and learning! 
+
+In my free time, I love playing tennis and mountain biking.
+
+<a href="https://www.linkedin.com/in/kishanpatel910/">
+  <img align="left" alt="Kishan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
