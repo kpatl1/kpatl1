@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I’m a software engineer attending UNC Chapel Hill with a passion for app development, problem-solving, team-building, and learning! 
 
-🔭 I’m currently working on ATHENA -- A Apple Watch App built with a ML backend to detect instances of Rohypnol.
+🔭 I’m currently working on ATHENA -- an Apple Watch App built with a ML backend to detect instances of Rohypnol.
 
 🌱 I’m currently learning C and Java
 
