@@ -22,7 +22,7 @@ I’m a software engineer attending UNC Chapel Hill with a passion for app devel
 
 🔭 I’m currently working on ATHENA -- an Apple Watch App built with a ML backend to detect instances of Rohypnol.
 
-🌱 I’m currently learning C and Java
+🌱 I’m currently learning Machine Learning strategies and ways to implement them in my personal projects. 
 
 📫 How to reach me: kpatel6@unc.edu
 
