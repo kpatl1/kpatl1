@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi! I'm Kishan 👨🏽‍💻
+# Hi! I'm Kishan 
 
 I’m a software engineer working at SAS Institute with a passion for app development, problem-solving, team-building, and learning! 
 
