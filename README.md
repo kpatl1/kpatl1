@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Hi! I'm Kishan 
 
-I’m a software engineer working at SAS Institute with a passion for app development, problem-solving, team-building, and learning! 
+I’m a software engineer working at Capital One with a passion for app development, problem-solving, team-building, and learning! 
 
 🌱 I’m currently learning Machine Learning strategies and ways to implement them in my personal projects. 
 
